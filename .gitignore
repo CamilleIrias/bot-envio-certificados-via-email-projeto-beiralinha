@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+controller.py/
+source/
+
+# Dados sensíveis (configurações)
+Dados.py
+
+# Arquivos Python temporários
+__pycache__/
+*.pyc
+
+# Certificados
+certificados/*
+!certificados/.gitkeep
+
+# Arquivo Excel com dados dos alunos
+Certificados BL.xlsx
+
+# Log
+*.log
